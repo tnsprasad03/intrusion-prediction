@@ -1,0 +1,19 @@
+Random Forest Features
+
+srv_count_
+flag_
+protocol_type_
+dst_host_count_
+root_shell_
+dst_host_srv_count_
+dst_host_serror_rate_
+dst_host_diff_srv_rate_
+dst_host_same_src_port_rate_
+serror_rate_
+num_failed_logins_
+dst_host_srv_diff_host_rate_
+src_bytes_
+num_file_creations_
+root_shell_
+dst_host_srv_rerror_rate_
+logged_in_
