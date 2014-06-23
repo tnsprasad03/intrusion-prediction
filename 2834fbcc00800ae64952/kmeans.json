@@ -1,0 +1,18 @@
+{
+  "converter" : {
+    "num_rules" : [
+      { "key" : "*", "type" : "num" }
+    ]
+  },
+  "parameter" : {
+    "k" : 2,
+    "compressor_method" : "compressive_kmeans",
+    "bucket_size" : 1000,
+    "compressed_bucket_size" : 100,
+    "bicriteria_base_size" : 10,
+    "bucket_length" : 4,
+    "forgetting_factor" : 0,
+    "forgetting_threshold" : 0.5
+  },
+  "method" : "kmeans"
+}
